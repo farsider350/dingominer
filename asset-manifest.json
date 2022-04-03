@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.2d9893b0.css",
   "main.css.map": "static/css/main.2d9893b0.css.map",
-  "main.js": "static/js/main.c1ca0e44.js",
-  "main.js.map": "static/js/main.c1ca0e44.js.map",
+  "main.js": "static/js/main.2fb49054.js",
+  "main.js.map": "static/js/main.2fb49054.js.map",
   "static/media/cat1.png": "static/media/cat1.2acf1843.png",
   "static/media/cat2.png": "static/media/cat2.6e376466.png",
   "static/media/chinese.png": "static/media/chinese.3dc1931d.png",
@@ -34,5 +34,5 @@
   "static/media/powersupply3.svg": "static/media/powersupply3.be640fb4.svg",
   "static/media/russian.png": "static/media/russian.fcec89ec.png",
   "static/media/spacerocket.png": "static/media/spacerocket.b4652d5b.png",
-  "static/media/trollcoin.svg": "static/media/trollcoin.5d150bcf.svg"
+  "static/media/trollcoin.svg": "static/media/trollcoin.d477ebc3.svg"
 }
