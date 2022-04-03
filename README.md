@@ -1,0 +1,2 @@
+# dingominer
+Dingocoin Mining Game
