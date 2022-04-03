@@ -1,0 +1,144 @@
+.computershoplogo {
+  position: absolute;
+   top: 0;
+   padding: 20px;
+   max-width: 420px;
+   left: 20;
+}
+
+.shop-grid {
+  margin-top: 40px;
+}
+
+.shop-item-icon-pc {
+  max-width: 100px;
+}
+
+.shop-item-icon-general {
+  max-width: 250px;
+}
+
+.shop-item-icon-gpu2 {
+  max-width: 330px;
+}
+
+.shop-item {
+  font-size: 1.4em;
+  background: #005073;
+  padding: 0 20px 20px 20px;
+  min-height: 400px;
+  margin-top: 20px;
+  transition: 0.1s;
+}
+
+.shop-item:hover {
+  transform: scale(1.02);
+}
+
+.buy-item-button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.buy-item-button:hover {
+  background-color: #3b883e;
+  cursor: pointer;
+}
+
+.item-details {
+  font-size: 14px;
+}
+
+.shop-highlight {
+  color: #a9dd15;
+}
+
+.shop-item-heading {
+  background-color: #107dac;
+  border-radius: 0 0 20px 20px;
+  padding: 10px 10px 1px 10px;
+}
+
+.modal-close-button {
+  background: #f90;
+  color: #fff;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 35px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-right: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.modal-close-button:hover {
+  background-color: #c16e00;
+  color: white;
+}
+
+.sellerCat {
+  max-width: 300px;
+  border-radius: 100px;
+  background-color: white;
+}
+
+.tri-left.left-top:after {
+  content: ' ';
+  position: absolute;
+  width: 0;
+  height: 0;
+  left: 100%;
+  top: 50px;
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(270deg);
+  bottom: auto;
+  border: 22px solid;
+  border-color: #ffffff transparent transparent transparent;
+}
+
+.talk-bubble-shop {
+  display: inline-block;
+  position: relative;
+  height: auto;
+  color: black;
+  text-shadow: none;
+  padding: 30px;
+  padding-right: 5px;
+  width: 90%;
+  padding-left: 40px;
+  background-color: white;
+}
+
+.talk-bubble-shop:hover {
+  z-index: 4;
+}
+
+.status-icons {
+  float: right;
+  padding: 7px;
+}
+
+.player-stats-container {
+  position: fixed;
+  top: 65px;
+  z-index: 99;
+  min-width: 350px;
+}
+
+.player-shop-stats {
+  box-shadow: 3px 3px 30px -6px rgba(0,0,0,0.75);
+}

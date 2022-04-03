@@ -1,0 +1,67 @@
+.menu {
+  margin-top: 30px;
+}
+
+.menu-item {
+  background-size: 50px 50px;
+  background-color: #ac0;
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                    transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                    transparent 75%, transparent);
+
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+  border-radius: 0px 45px 45px 0px;
+  width: 300px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 0px 10px 25px -6px rgba(0,0,0,0.75);
+  margin-bottom: 20px;
+  transition: 0.3s;
+}
+
+.menu-item:hover {
+  width: 350px;
+  transition: 0.3s;
+  background-color: #96de00;
+  text-shadow: 0px 3px 4px rgba(0, 64, 255, 1);
+  cursor: pointer;
+}
+
+.wallet-coins {
+  color: #faff00;
+}
+
+.wallet {
+  min-height: 300px;
+  font-size: 22px;
+}
+
+input[type=number] {
+    margin: 10px 0px 10px 0px;
+    width: 130px;
+    padding: 5px 0px 5px 5px;;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 22px;
+}
+
+input[type=number]:focus, input:focus{
+  outline: none;
+}
+
+.sell-coins-button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 9px 19px 8px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.sell-coins-button:hover {
+  background-color: #3b883e;
+  cursor: pointer;
+}
