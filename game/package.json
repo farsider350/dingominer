@@ -2,7 +2,7 @@
   "name": "game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://splendid-schweppes.github.io/crypto-mining-game",
+  "homepage": "https://farsider350.github.io/dingominer/",
   "dependencies": {
     "csshake": "^1.5.3",
     "font-awesome": "^4.7.0",
