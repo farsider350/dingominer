@@ -1,2 +1,2 @@
 # dingominer
-Dingocoin Mining Game
+Dingocoin Mining Game by farsider350
